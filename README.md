@@ -12,7 +12,7 @@ I'm particularly interested in **control systems, robotics, embedded software, a
 
 ## Technical Skills
 
-- **Programming:** C, C++, Python, MicroPython, Ada, VHDL
+- **Programming:** C, C++, Python, MicroPython, Ada, VHDL, JAVA
 - **Modeling & simulation:** MATLAB / Simulink
 - **Embedded platforms:** STM32, Pololu 3pi+ 2040
 - **Areas of interest:** control engineering, autonomous robotics, embedded systems, digital electronics
